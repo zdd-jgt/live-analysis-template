@@ -1,0 +1,16 @@
+{
+  "model_type": "deepseek-r1",
+  "architectures": ["EmotionAnalysisModel"],
+  "hidden_size": 768,
+  "num_hidden_layers": 12,
+  "num_attention_heads": 12,
+  "vocab_size": 50265,
+  "emotion_labels": [
+    "joy", "anger", "sorrow",
+    "fear", "surprise", "disgust", "neutral"
+  ],
+  "quantization_config": {
+    "bits": 8,
+    "disable_exllama": true
+  }
+}
