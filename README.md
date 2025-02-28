@@ -26,8 +26,8 @@
 
 1. 克隆仓库：
     ```bash
-    git clone https://github.com/deepseek-ai/live-analysis.git
-    cd live-analysis
+    git clone https://github.com/zdd-jgt/live-analysis-template.git
+    cd live-analysis-template
     ```
 2. 安装依赖：
     ```bash
